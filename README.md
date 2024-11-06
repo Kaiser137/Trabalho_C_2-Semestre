@@ -28,8 +28,11 @@ Funções para modularizar as operações, como calcular a média e exibir os re
 
 Critérios de Avaliação:
 Funcionamento correto do programa.
+
 Uso adequado de vetores e funções.
+
 Clareza e organização do código.
+
 Comentários explicativos e boa apresentação dos resultados na tela.
 
 Deve ser feito em equipes de no mínimo 03 pessoas e no máximo 06 pessoas.
