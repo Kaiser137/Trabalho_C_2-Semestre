@@ -4,6 +4,16 @@ Nomes: Cezar Vitor, Igor Gabriel, Rodrigo Marques
 
 Trabalho 2° Semestre - Praticas de Programação de Computadores - Linguagem C
 
+# Divisão do Trabalho
+
+Parte 1 - Entrada de Dados: Cezar Vitor
+
+Parte 2 - Calculo das Médias
+
+Parte 3 - Gerar Relatório
+
+Toda a parte do trabalho foi finalizada e cada integrante fez sua parte.
+
 # Descrição do Trabalho abaixo
 
 Desenvolver uma aplicação de gerenciamento de notas de alunos de uma turma:
