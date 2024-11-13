@@ -8,9 +8,9 @@ Trabalho 2° Semestre - Praticas de Programação de Computadores - Linguagem C
 
 Parte 1 - Entrada de Dados: Cezar Vitor
 
-Parte 2 - Calculo das Médias
+Parte 2 - Calculo das Médias: Igor Gabriel
 
-Parte 3 - Gerar Relatório
+Parte 3 - Gerar Relatório: Rodrigo Marques
 
 Toda a parte do trabalho foi finalizada e cada integrante fez sua parte.
 
