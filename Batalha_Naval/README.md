@@ -1,5 +1,5 @@
 
-# Trabalho_C_2-Semestre
+# Trabalho_C_2-Semestre - Batalha Naval
 
 Nomes: Cezar Vitor, Igor Gabriel, Rodrigo Marques
 
