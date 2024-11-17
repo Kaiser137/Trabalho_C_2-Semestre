@@ -33,7 +33,6 @@ Cada jogador deve informar seu apelido.
 Ao final deve mostrar o placar.
 
 Critérios de avaliação:
-
 Jogo funcionando
 
 Código componentizado em funções
