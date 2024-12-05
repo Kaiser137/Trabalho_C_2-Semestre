@@ -1,17 +1,19 @@
 
 # Trabalho_C_2-Semestre - Batalha Naval
 
-Nomes: Cezar Vitor, Igor Gabriel, Rodrigo Marques
+Nomes: Cezar Vitor, Igor Gabriel, Jhonatan, Rodrigo Marques
 
-Trabalho 2° Semestre - Praticas de Programação de Computadores - Linguagem C
+Trabalho 2° Semestre - Praticas de Programação de Computadores - Linguagem C - Batalha Naval
 
 # Divisão do Trabalho
 
-Parte 1 - : Cezar Vitor
+Parte 1 - Apelidos, Posicionamento de barcos: Cezar Vitor
 
-Parte 2 - : Igor Gabriel
+Parte 2 - Acertar o tabuleiro adversário: Igor Gabriel
 
-Parte 3 - : Rodrigo Marques
+Parte 3 - Placar: Rodrigo Marques
+
+Parte 4 - Finalização, descrições e correções: Jhonatan
 
 Toda a parte do trabalho foi finalizada e cada integrante fez sua parte.
 
